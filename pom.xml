@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>Simple Maven example</name>
-    <url>https://jitpack.io/#Pawedla/Order/0.2</url>
+    <url>https://jitpack.io/#Pawedla/Order/0.3</url>
 
     <dependencies>
         <dependency>
