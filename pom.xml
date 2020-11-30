@@ -7,6 +7,11 @@
     <version>0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+
+    <properties>
+        <java.version>13</java.version>
+    </properties>
+
     <name>Simple Maven example</name>
     <url>https://jitpack.io/#Pawedla/Order/0.1</url>
 
@@ -27,8 +32,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.2</version>
                 <configuration> <!-- Compile java 7 compatible bytecode -->
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>13</source>
+                    <target>13</target>
                 </configuration>
             </plugin>
 
